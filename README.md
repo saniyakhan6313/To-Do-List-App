@@ -26,4 +26,4 @@ A sleek and minimal **To-Do List App** built with **HTML, CSS, and JavaScript**.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/TODO-LIST-APP.git
+   git clone https://github.com/saniyakhan6313/To-Do-List-App.git
